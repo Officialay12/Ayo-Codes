@@ -1,4 +1,5 @@
-<a href=# 🌟 Welcome to Ayo-Codes' Portfolio 🌟  
+![Alt Text](https://files.catbox.moe/4hanlp.jpg)
+🌟 Welcome to Ayo-Codes' Portfolio 🌟  
 
 **Hello there!** 👋 I'm **Ayo**, a passionate **Frontend Web Developer** with a love for crafting beautiful, interactive, and user-friendly digital experiences. This repository houses my **portfolio website**—a showcase of my skills, projects, and creative journey in the world of web development.  
 
